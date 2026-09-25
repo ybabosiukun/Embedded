@@ -4,6 +4,8 @@ Tilt the board to roll a ball into a hole. Each hit scores a point, the ball ret
 
 ![Tilt Ball](img.jpg)
 
+[Video demo on YouTube](https://youtube.com/shorts/NdYaDkwZ0wY)
+
 ## Hardware
 
 - ESP32-S3
