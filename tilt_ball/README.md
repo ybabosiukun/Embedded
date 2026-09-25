@@ -2,6 +2,8 @@
 
 Tilt the board to roll a ball into a hole. Each hit scores a point, the ball returns to the center and the hole moves to a new random spot. A slow ball near the rim gets pulled in; a fast one rolls over.
 
+![Tilt Ball](img.jpg)
+
 ## Hardware
 
 - ESP32-S3
